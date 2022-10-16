@@ -110,9 +110,6 @@
       </div>
     </form>
 
-    <div id="footer">
-           <p style="font-size:70%;color:#ffffff;"> Developed By-<b>Arati</b><br/> </p><p>Copyright 2016 <a href="https://www.ganpatuniversity.ac.in">Ganpatuniversity.ac.in</a></p>   
-    </div>
   </div>
   </body>
 </html>
